@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Minassie's Personal Site</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <table cellspacing="20">
+            <tr>
+                <td>
+                    <img src="images/37268474-fake-human-circle-img.png" alt="profile">
+                </td>
+                <td>
+                    <h1>Minassie Ephrem</h1>
+                    <p> <em>Founder and CEO of <strong>Archi Tech</strong>.</em></p>
+                    <p>I am a computer science studetn at <em>ST.MARY UNIVERSITY.</em> I live in Ethiopia, Addis Ababal. This is my personal site that i am creating for the sake of learning web-development.</p>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <h3>Education</h3>
+        <ul>
+            <li>Cruise school - i attended most of my education at cruise school</li>
+            <li>ST.MARY university - i am attending my computer science class at st.mary university.</li>
+        </ul>
+        <hr>
+
+        <h3>data</h3>
+        <table border="1">
+            <thead>
+                <th>name</th>
+                <th>age</th>
+                <th>birth date</th>
+                <th>nationality</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>minassie</td>
+                    <td>20</td>
+                    <td>june 6 2001</td>
+                    <td>Ethiopian</td>
+                </tr>
+                <tr>
+                    <td>minassie</td>
+                    <td>20</td>
+                    <td>june 6 2001</td>
+                    <td>Ethiopian</td>
+                </tr>
+            </tbody>
+            
+        </table>
+        <hr>
+        <h3>Skills</h3>
+        <table cellspacing="10">
+            <tr>
+                <td>c++ </td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>python</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>web-development</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>cryptoography</td>
+                <td>⭐</td>
+            </tr>
+        </table>
+
+        <a href="hobbies.html">My Hobbies</a>
+        <a href="contact.html">Contact Me</a>
+       
+    </body>
+</html>
