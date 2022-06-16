@@ -2,17 +2,10 @@ body{
     margin: 0;
     text-align: center;
 }
-div{
-    background-color: #EAF6F6;  
-}
 
-
-
-/* .top-container{
-    width: 200px;
-    height: 200px;
+.top-container{
     background-color: #EAF6F6;
-} */
+}
 
 .middle-container{
     width: 200px;
